@@ -1,5 +1,5 @@
 import { IConfig } from 'umi-types';
-import { routes } from './config/routes'
+import routes from './config/routes'
 // ref: https://umijs.org/config/
 const config: IConfig =  {
   treeShaking: true,
